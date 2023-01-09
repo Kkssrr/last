@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  https://github.com/Kkssrr/last/tree/main
+  git clone https://github.com/Kkssrr/last.git /last
 else
   echo "Cloning Custom Repo Kkssrr_REPO "
   git clone $UPSTREAM_REPO /last
