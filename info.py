@@ -89,7 +89,7 @@ URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE',  'urlshortx.com')
                                   
 
 
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '/e85a760192d51e8273ce9dd0cb5f81c26951f766')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'e85a760192d51e8273ce9dd0cb5f81c26951f766')
 
 
 
