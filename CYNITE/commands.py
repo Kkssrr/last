@@ -97,7 +97,7 @@ async def start(client, message):
                     InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
                   ],[
-                    InlineKeyboardButton('𒆜Owner𒆜', url="@Rawatboyzz")
+                    InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ʏᴛ ᴄʜᴀɴɴᴇʟ', url="https://youtube.com/@TechnicalCynite")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
