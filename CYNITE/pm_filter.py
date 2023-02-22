@@ -1175,13 +1175,11 @@ async def advantage_spell_chok(msg):
         return
     SPELL_CHECK[msg.id] = movielist
     btn = [[
+        
+
         InlineKeyboardButton(
-            text="ɪɴsᴛʀᴜᴄᴛɪᴏɴs",
-            callback_data="splmd"
-        ),
-        InlineKeyboardButton(
-            text="ʀᴇᴘᴏʀᴛ ʜᴇʀᴇ",
-            url=f"t.me/{SUPPORT_CHAT}"
+            text="Req to owner",
+            url=f"@Teampritam_bot{SUPPORT_CHAT}"
         )
     ],[
         InlineKeyboardButton(
