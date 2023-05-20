@@ -84,12 +84,12 @@ DELETE_TIME = int(environ.get('DELETE_TIME', 1000))
 SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 15))
 
 # URL SHORTNER
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE',  'urlshortx.com')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE',  'OmegaLinks.in')
                                   
                                   
 
 
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'e85a760192d51e8273ce9dd0cb5f81c26951f766')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'bfa59cca0c8923ceb5780a7304545db00dea11af')
 
 
 
